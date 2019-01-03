@@ -1,2 +1,2 @@
-# threadsafe_queue
-Threadsafe queue with shutdown switch.
+# Thread Safe Queue
+Thread-safe queue with shutdown switch.
